@@ -1,189 +1,242 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Siddhi%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Applied%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20LLMs%20%7C%20AWS&descAlignY=60"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Siddhi Gupta</h1>
+# 👋 Hi, I'm Siddhi Gupta
 
-<h3 align="center">
-🚀 Aspiring Applied AI Engineer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Generative+AI+Enthusiast;Building+LLM+Applications;Learning+Agentic+AI;Always+Learning+🚀" alt="Typing SVG" />
 
-<p align="center">
+### 🤖 Aspiring AI Engineer | Generative AI | Agentic AI | LLM Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&color=38BDF8&lines=Building+AI+Applications;Machine+Learning+Enthusiast;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;AWS+Cloud+Learner;Always+Learning+%F0%9F%9A%80"/>
+Building intelligent AI solutions that solve real-world problems.
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=siddhi3030&style=for-the-badge&color=blueviolet" />
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=siddhi3030&style=for-the-badge&color=0ea5e9"/>
-
-<img src="https://img.shields.io/github/followers/siddhi3030?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/siddhi3030?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 🤖 About Me
+# 💫 About Me
 
-```python
-class SiddhiGupta:
+🎓 **B.Tech in Computer Science & Engineering**
 
-    role = "Aspiring Applied AI Engineer"
+🤖 Passionate about **Artificial Intelligence, Machine Learning, NLP, and Generative AI**
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Large Language Models",
-        "Retrieval-Augmented Generation",
-        "AI Agents",
-        "AWS Cloud"
-    ]
+🧠 Currently exploring:
+- Large Language Models (LLMs)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- AI Automation
+- MLOps
+- FastAPI
+- LangChain
 
-    currently_learning = [
-        "Advanced DSA",
-        "LLMs",
-        "RAG",
-        "System Design",
-        "AWS"
-    ]
-
-    motto = "Build AI that solves real-world problems."
-```
+🚀 I enjoy building AI-powered products that create meaningful impact.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Sangat AI
+## 🧠 LexoraAI *(Flagship Project)*
 
-AI-powered application focused on solving real-world problems through intelligent automation.
+AI-powered Legal Assistant built using Large Language Models.
 
----
-
-### ⚖️ Lexora AI
-
-AI Legal Assistant powered by **LLMs**, **RAG**, and intelligent document retrieval.
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,git,github,docker,aws,vscode"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-</p>
+### Features
+- 📄 Intelligent Document Understanding
+- 💬 Conversational AI
+- 🌍 Multilingual Legal Assistance
+- 🧠 AI-powered Legal Research
+- 🤖 LLM-powered Question Answering
 
 ---
 
-# 🌱 Currently Working On
+## 📖 Sangat AI
 
-🧠 Large Language Models
+AI-powered Gurbani Recognition & Explanation Platform.
 
-🤖 AI Agents
-
-⚡ Retrieval-Augmented Generation (RAG)
-
-☁️ AWS Cloud
-
-📚 Data Structures & Algorithms
+### Features
+- 🎙 Gurbani Speech Recognition
+- 🔤 Transliteration
+- 🌐 Translation
+- 🧠 Semantic Search
+- 📚 AI-powered Explanations
+- 🔍 Intelligent Verse Discovery
 
 ---
 
-# 📊 GitHub Analytics
+# 🛠 Tech Stack
 
-<p align="center">
+## 👨‍💻 Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhi3030&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi3030&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🤖 AI / Machine Learning
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=siddhi3030&theme=tokyonight&hide_border=true"/>
+- OpenAI API
+- Hugging Face
+- LangChain
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications
 
+---
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 Data Science
 
-<p align="center">
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhi3030&theme=tokyo-night&hide_border=true"/>
+---
 
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## ☁ Cloud
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddhi3030&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
 ---
 
-# 🚀 My AI Journey
+# 🌱 Currently Learning
 
-```text
-Python              ████████████████████
-
-Machine Learning    █████████████████░░░
-
-Deep Learning       ████████████░░░░░░░░
-
-Large Language Models
-                    ███████████░░░░░░░░░
-
-RAG                 ██████████░░░░░░░░░░
-
-AWS                 █████████░░░░░░░░░░░
-
-Data Structures     ██████████████░░░░░░
-```
+- 🤖 Agentic AI
+- 🧠 Advanced Prompt Engineering
+- 🔗 LangGraph
+- 🚀 Production LLM Systems
+- ☁ AWS
+- 🐳 Docker
+- 📦 AI Deployment
+- ⚡ FastAPI
 
 ---
 
-# 🌟 Philosophy
+# 📈 GitHub Stats
 
-> **"Learn relentlessly. Build intelligently. Create meaningful impact through Artificial Intelligence."**
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhi3030&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhi3030&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-Building today for the intelligent systems of tomorrow.
-
-⭐ Thanks for visiting my profile!
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi3030&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-</p>
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddhi3030&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhi3030&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Agentic AI
+- ✅ Build Production-ready AI Applications
+- ✅ Build AI Agents
+- ✅ Contribute to Open Source
+- ✅ Secure an AI Engineering Internship
+- ✅ Publish AI Projects
+
+---
+
+# 💡 Areas of Interest
+
+- Artificial Intelligence
+- Generative AI
+- Agentic AI
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Large Language Models
+- AI Automation
+
+---
+
+# 📚 Currently Reading
+
+- Hands-On Machine Learning
+- Designing Machine Learning Systems
+- Building LLM Applications
+- LangChain Documentation
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:siddhigupta3030@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/siddhi3030">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Quote
+
+*"The best way to predict the future is to build it."*
+
+---
+
+### 💜 Thanks for visiting my profile!
+
+⭐ If you like my work, consider following me and exploring my repositories.
+
+</div>
