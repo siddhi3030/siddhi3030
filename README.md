@@ -1,96 +1,107 @@
-<div align="center">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Siddhi%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Applied%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20LLMs%20%7C%20AWS&descAlignY=60"/>
+</p>
 
-# 👋 Hi, I'm Siddhi Gupta
+<h1 align="center">Hi 👋, I'm Siddhi Gupta</h1>
 
-### 🚀 Aspiring Applied AI Engineer
+<h3 align="center">
+🚀 Aspiring Applied AI Engineer
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+AI+Powered+Applications;Machine+Learning+%7C+LLMs+%7C+RAG;Applied+AI+Engineer+in+Progress;AWS+Cloud+Enthusiast;Always+Learning+%F0%9F%9A%80"/>
+<p align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&color=38BDF8&lines=Building+AI+Applications;Machine+Learning+Enthusiast;Exploring+LLMs+%7C+RAG+%7C+AI+Agents;AWS+Cloud+Learner;Always+Learning+%F0%9F%9A%80"/>
 
-<img src="https://komarev.com/ghpvc/?username=siddhi3030&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/github/followers/siddhi3030?style=for-the-badge&color=blue"/>
+<p align="center">
 
-<img src="https://img.shields.io/github/stars/siddhi3030?style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=siddhi3030&style=for-the-badge&color=0ea5e9"/>
 
-</div>
+<img src="https://img.shields.io/github/followers/siddhi3030?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/siddhi3030?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🤖 About Me
 
-```yaml
-Name: Siddhi Gupta
+```python
+class SiddhiGupta:
 
-Role: Aspiring Applied AI Engineer
+    role = "Aspiring Applied AI Engineer"
 
-Focus:
-  - Machine Learning
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - AI Agents
-  - AWS Cloud
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "AI Agents",
+        "AWS Cloud"
+    ]
 
-Currently:
-  - Building AI Applications
-  - Practicing DSA
-  - Learning System Design
+    currently_learning = [
+        "Advanced DSA",
+        "LLMs",
+        "RAG",
+        "System Design",
+        "AWS"
+    ]
 
-Goal:
-  Build AI products that solve real-world problems.
+    motto = "Build AI that solves real-world problems."
 ```
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python"/>
-
-### AI / Machine Learning
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,pandas,numpy"/>
-
-Scikit-Learn • LLMs • RAG
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 Sangat AI
+### 🤖 Sangat AI
 
-> Building AI-powered solutions that create meaningful user experiences.
-
----
-
-## ⚖️ Lexora AI
-
-> AI Legal Assistant powered by **Large Language Models**, **Retrieval-Augmented Generation (RAG)** and intelligent document search.
+AI-powered application focused on solving real-world problems through intelligent automation.
 
 ---
 
-# 🌱 Currently Exploring
+### ⚖️ Lexora AI
 
-- 🤖 AI Agents
-- 🧠 Large Language Models
-- 🔍 RAG Pipelines
-- ☁️ AWS Cloud
-- 📚 Data Structures & Algorithms
-- 🏗️ System Design
+AI Legal Assistant powered by **LLMs**, **RAG**, and intelligent document retrieval.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,git,github,docker,aws,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+🧠 Large Language Models
+
+🤖 AI Agents
+
+⚡ Retrieval-Augmented Generation (RAG)
+
+☁️ AWS Cloud
+
+📚 Data Structures & Algorithms
 
 ---
 
@@ -98,9 +109,9 @@ Scikit-Learn • LLMs • RAG
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhi3030&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhi3030&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi3030&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi3030&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -130,44 +141,49 @@ Scikit-Learn • LLMs • RAG
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhi3030&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=siddhi3030&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 💡 AI Journey
+# 🚀 My AI Journey
 
 ```text
-Machine Learning      ██████████████░░
+Python              ████████████████████
 
-Deep Learning         ████████████░░░
+Machine Learning    █████████████████░░░
 
-Large Language Models ███████████░░░░
+Deep Learning       ████████████░░░░░░░░
 
-RAG                   ██████████░░░░░
+Large Language Models
+                    ███████████░░░░░░░░░
 
-AWS                   █████████░░░░░░
+RAG                 ██████████░░░░░░░░░░
 
-Data Structures       ████████████░░░
+AWS                 █████████░░░░░░░░░░░
+
+Data Structures     ██████████████░░░░░░
 ```
 
 ---
 
-# 💭 Quote
+# 🌟 Philosophy
 
-<div align="center">
-
-### *"Artificial Intelligence is not just about making machines smarter — it's about creating solutions that make lives better."*
-
-</div>
+> **"Learn relentlessly. Build intelligently. Create meaningful impact through Artificial Intelligence."**
 
 ---
 
 <div align="center">
 
-## ⭐ Let's Connect & Build the Future of AI 🚀
+### 🤝 Let's Connect
 
-*"Learning every day. Building with purpose. Creating impact through AI."*
+Building today for the intelligent systems of tomorrow.
+
+⭐ Thanks for visiting my profile!
 
 </div>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
