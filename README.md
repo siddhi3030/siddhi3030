@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:0891B2&height=190&section=header&text=Siddhi%20Gupta&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%7C%20Full-Stack%20ML%20Applications%20%7C%20Data%20Analytics&descSize=16&descAlignY=56" alt="AI inspired profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:06B6D4&height=190&section=header&text=Siddhi%20Gupta&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Systems%20%7C%20Fraud%20Detection%20%7C%20Full-Stack%20ML%20Apps&descSize=16&descAlignY=56" alt="AI inspired profile header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Aspiring+AI%2FML+Engineer;Building+ML-powered+software+systems;Fraud+detection+%7C+Legal-tech+%7C+Medical+AI;Data+cleaning+%7C+Processing+%7C+Model+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+ML-powered+web+systems;Python+Flask+ML+service+%2B+Node.js+API;MySQL-backed+fraud+detection+workflows;Dashboards+%7C+Realtime+updates+%7C+Prediction+APIs" alt="Typing SVG" />
 
 <br/>
 
@@ -18,89 +18,66 @@
 
 ---
 
-## About Me
+## System Focus
 
-I am **Siddhi Gupta**, a **B.Tech Computer Science & Engineering student** focused on AI/ML, full-stack ML applications, and data analytics.
+I build and document **ML-powered web systems** where prediction logic connects with backend APIs, databases, dashboards, and user-facing interfaces.
 
-My work is centered on building practical systems where machine-learning logic connects with usable software: prediction APIs, dashboards, databases, analytics workflows, and user-facing interfaces.
+This profile is based only on repositories currently visible on this GitHub account. No resume-only projects, certifications, achievements, or unrelated skills are listed here.
 
-**Current direction**
-
-- Machine-learning workflows: data cleaning, preprocessing, feature processing, and model building
-- Full-stack ML apps: Flask prediction services, Node.js/Express APIs, MySQL storage, authentication, and dashboards
-- Data analytics: Power BI, Tableau, Advanced Excel, and structured reporting
-- Applied AI domains: fraud detection, legal-tech access, medical-image detection, and disaster-response systems
+```mermaid
+flowchart LR
+    A[Transaction Input] --> B[Feature Processing]
+    B --> C[ML Prediction Service]
+    C --> D[Express API]
+    D --> E[(MySQL)]
+    D --> F[Realtime Dashboard]
+    F --> G[User Feedback Loop]
+```
 
 ---
 
-## Featured Projects
+## Repository-Backed Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### PulseShield — ML Fraud Detection
+### PulseShield — E-Commerce Fraud Detection
 
-A full-stack fraud detection system combining a **Python/Flask ML service**, **Node.js/Express backend**, **MySQL database**, and a responsive analytics dashboard.
+A full-stack fraud detection application built around a **Flask ML service**, **Node.js/Express API**, **MySQL persistence**, and **real-time dashboard updates**.
 
-**Built around**
+**Repository-backed capabilities**
 
-- Fraud probability scoring
-- JWT authentication
-- Real-time updates with Socket.IO
-- Transaction history and CSV export
-- Responsive frontend with dark/light theme
+- Transaction fraud scoring
+- Flask prediction endpoint
+- Pickle-based model asset loading
+- Rule-based fallback scoring when model assets are unavailable
+- JWT-protected transaction routes
+- MySQL-backed user and transaction storage
+- Socket.IO event emission for new transactions
+- CSV export for transaction records
 
-**Stack:** Python, Flask, Scikit-learn, Pandas, NumPy, JavaScript, Node.js, Express, MySQL, Socket.IO, Bootstrap, Tailwind CSS
+**Stack visible in repo**
 
-[Repository](https://github.com/siddhi3030/E-Commerece-Fraud-Detection)
+`Python` · `Flask` · `Pandas` · `NumPy` · `Scikit-learn` · `Node.js` · `Express.js` · `MySQL` · `Socket.IO` · `JWT` · `Axios` · `HTML` · `CSS` · `JavaScript`
 
-</td>
-<td width="50%" valign="top">
-
-### SHVET: Your Shield — Legal-Tech Platform
-
-A legal-tech mobile application concept for reducing legal illiteracy and improving access to justice by connecting users with verified lawyers in native languages.
-
-**Built around**
-
-- ML-based lawyer recommendation by case type, language, and location
-- Multilingual legal assistance
-- Legal awareness blogs, case studies, and quizzes
-- Privacy-conscious and affordability-focused design
-- SDG-16 aligned problem statement
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Kidney Stone Detection Using Deep Learning
-
-A medical-imaging project applying CNN-based deep-learning methods to detect kidney stones from ultrasound/CT scan images.
-
-**Built around**
-
-- Image preprocessing
-- Data augmentation
-- CNN-based classification
-- VGG16 and ResNet feature-extraction approach
-- Early diagnosis assistance
+[Open Repository](https://github.com/siddhi3030/E-Commerece-Fraud-Detection)
 
 </td>
 <td width="50%" valign="top">
 
-### Disaster Management Early Warning System
+### Mental Health Of People In IT Industry
 
-A disaster-response application designed for early earthquake alerts and real-time safe-location sharing during emergencies.
+A documentation-stage repository for organizing a responsible analysis project around mental-health patterns in IT workplaces.
 
-**Built around**
+**Current repository status**
 
-- Early alert support
-- Nearby safe-location discovery
-- Community-updated safe locations
-- Social-feed style emergency updates
-- Accessibility-first safety workflow
+- README documentation exists
+- No repository-backed dataset conclusions are claimed
+- No model, notebook, dashboard, or analysis result is claimed without committed files
+- Structured as a clean project space for future data work
+
+[Open Repository](https://github.com/siddhi3030/Mental-Health-Of-People-In-IT-Industry)
 
 </td>
 </tr>
@@ -108,67 +85,44 @@ A disaster-response application designed for early earthquake alerts and real-ti
 
 ---
 
-## AI / ML / Data Stack
+## Tech Stack From Current Repositories
 
 <div align="center">
 
-### Languages & CS Core
+### Machine Learning / Data Handling
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-1F2937?style=for-the-badge" />
-
-### AI, ML & Data
-
-<img src="https://img.shields.io/badge/AI%20Basics-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-164E63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Cleaning-0F766E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Processing-155E75?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model%20Building-1D4ED8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning%20Basics-5B21B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI%20Training-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG%20Training-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pickle%20Model%20Assets-374151?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prediction%20API-0F766E?style=for-the-badge" />
 
-### Full-Stack ML Application Tools
+### Backend / Realtime / Database
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-334155?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/bcryptjs-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 
-### Frontend & Analytics
+### Frontend
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 </div>
-
----
-
-## Certifications & Training
-
-- **IBM SkillsBuild:** Generative AI, Data Science, RAG
-- **NPTEL:** Python for Data Science
-- **MHRD Innovation Cell:** IA Online Training Certificate
-- **Udemy:** Java DSA Certification
 
 ---
 
@@ -191,40 +145,23 @@ A disaster-response application designed for early earthquake alerts and real-ti
 
 ---
 
-## AI Engineering Workflow I Am Building Toward
+## Current Engineering Direction
 
 ```mermaid
-flowchart LR
-    A[Problem Understanding] --> B[Data Cleaning]
-    B --> C[Feature Processing]
-    C --> D[Model Building]
-    D --> E[Prediction API]
-    E --> F[Dashboard + Analytics]
-    F --> G[Real-world Product]
+flowchart TD
+    A[Clean repository documentation] --> B[Readable setup flow]
+    B --> C[Working local execution]
+    C --> D[Prediction service reliability]
+    D --> E[Database-backed workflows]
+    E --> F[Dashboard-level product polish]
 ```
-
----
-
-## Selected Achievements
-
-<details>
-<summary>Open achievements</summary>
-
-- Secured **All India Rank 19** in the Bharat and Its Scientific Glory competition.
-- Secured **1st Position** in AdMad and **3rd Position** in Business Plan Competition at AKTU Literary, Management & Technical Fest 2025 Zonals.
-- Won **Gold Medal in Table Tennis** at AKTU Zonal Sports for three consecutive years: 2023, 2024, and 2025.
-- Secured **1st Position** in BRAINSPARK'25 seminar challenge.
-- Secured **1st Position** in the "Journey of Start-ups" presentation competition.
-- Secured multiple positions at TECHVYOM 2025 and Technovaganza 2025 across business plan, paper presentation, code relay, code sense, and analytical events.
-
-</details>
 
 ---
 
 <div align="center">
 
-### Building practical AI systems, one project at a time.
+### Repository-backed. No fake claims. No filler.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0F172A,100:020617&height=110&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0F172A,100:020617&height=110&section=footer" alt="Footer" />
 
 </div>
