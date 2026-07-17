@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm Siddhi Gupta
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0891b2&height=210&section=header&text=Siddhi%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Full-Stack%20Builder&descSize=17&descAlignY=57" alt="Siddhi Gupta profile banner" />
 
-### AI/ML Developer · Data Analyst · Full-Stack Project Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+practical+AI%2FML+products;Turning+data+and+models+into+usable+applications;Exploring+responsible+AI+and+production-ready+ML" alt="Typing introduction" />
 
-I build practical machine-learning applications that connect data, models, APIs, databases, and clean user interfaces.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-siddhi3030-181717?style=for-the-badge&logo=github)](https://github.com/siddhi3030)
+[![GitHub](https://img.shields.io/badge/GitHub-siddhi3030-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddhi3030)
 [![Email](https://img.shields.io/badge/Email-siddhigupta3030%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhigupta3030@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=siddhi3030&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=siddhi3030&style=for-the-badge&color=0891b2)
 
 </div>
 
@@ -16,30 +16,64 @@ I build practical machine-learning applications that connect data, models, APIs,
 
 ## About Me
 
-- Interested in **Artificial Intelligence, Machine Learning, Data Analytics, and full-stack development**.
-- Focused on building projects that solve practical problems instead of creating isolated notebook demos.
-- Comfortable working across data preprocessing, model integration, backend APIs, databases, dashboards, and documentation.
-- Currently improving my skills in production-ready ML systems, responsible AI, and scalable application design.
+I build practical software at the intersection of **machine learning, data analytics, backend engineering, and user-facing applications**. My focus is not limited to training models—I work on the complete system around them: preprocessing, APIs, databases, dashboards, safety checks, testing, and documentation.
+
+- Building full-stack AI/ML and data-driven applications
+- Exploring retrieval-augmented generation and responsible AI systems
+- Improving production engineering, system design, and model evaluation skills
+- Interested in projects that solve concrete problems rather than isolated notebook demos
+
+---
 
 ## Featured Projects
 
-### [LexoraAI](https://github.com/siddhi3030/LexoraAI)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A citation-verified, retrieval-augmented legal-information assistant for India. Lexora retrieves official statute text before generating answers, verifies displayed quotations, applies deterministic safety checks, and provides source-grounded legal information rather than legal advice.
+### ⚖️ [LexoraAI](https://github.com/siddhi3030/LexoraAI)
 
-**Core stack:** Python, FastAPI, PostgreSQL, pgvector, React, TypeScript, Docker, Gemini and Groq APIs
+A citation-verified RAG assistant for Indian legal information. It retrieves official statute text before generating, verifies displayed quotations, applies deterministic safety checks, and abstains when evidence is insufficient.
 
-### [E-Commerce Fraud Detection](https://github.com/siddhi3030/E-Commerece-Fraud-Detection)
+**Stack:** Python · FastAPI · PostgreSQL · pgvector · React · TypeScript · Docker
 
-A full-stack fraud-detection system that combines machine-learning predictions with an Express API, MySQL persistence, authentication, transaction management, and real-time dashboard updates.
+</td>
+<td width="50%" valign="top">
 
-**Core stack:** Python, Flask, Scikit-learn, Node.js, Express, MySQL, Socket.IO, JavaScript
+### 🛡️ [E-Commerce Fraud Detection](https://github.com/siddhi3030/E-Commerece-Fraud-Detection)
 
-### [Mental Health of People in the IT Industry](https://github.com/siddhi3030/Mental-Health-Of-People-In-IT-Industry)
+A full-stack fraud-detection system combining ML predictions with authentication, transaction storage, an Express API, MySQL persistence, and real-time dashboard updates.
 
-A data-analysis project focused on understanding workplace mental-health patterns in the technology industry through responsible data exploration and clear documentation.
+**Stack:** Python · Flask · Scikit-learn · Node.js · Express · MySQL · Socket.IO
 
-## Technical Skills
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Mental Health in the IT Industry](https://github.com/siddhi3030/Mental-Health-Of-People-In-IT-Industry)
+
+A responsible data-analysis project focused on understanding workplace mental-health patterns in the technology sector through structured exploration and clear documentation.
+
+**Focus:** Data analysis · Responsible interpretation · Documentation
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Current Direction
+
+- Production-ready ML systems
+- Reliable retrieval and evaluation pipelines
+- Responsible AI and safety-aware applications
+- Better backend architecture and deployment workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Stack
 
 <div align="center">
 
@@ -72,23 +106,33 @@ A data-analysis project focused on understanding workplace mental-health pattern
 
 </div>
 
-## GitHub Statistics
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhi3030&show_icons=true&hide_border=true&theme=github_dark" alt="Siddhi's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi3030&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhi3030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Siddhi's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi3030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
-<br />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhi3030&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=siddhi3030&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhi3030&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
+
+> GitHub metric cards are generated by third-party services. Temporary outages or browser content blockers may occasionally prevent them from loading.
 
 ---
 
 <div align="center">
 
 ### Building useful systems, one project at a time.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0f172a,100:020617&height=115&section=footer" alt="Profile footer" />
 
 </div>
